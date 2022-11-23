@@ -282,7 +282,7 @@ async def ch(message: types.Message):
             "formName": "BanquetPayment",
             "fullstripe_name": Name,
             "fullstripe_email": Email,
-            "fullstripe_custom_amount": "25.0",
+            "fullstripe_custom_amount": "1",
             "fullstripe_amount_index": 0,
             "stripeToken": Id
         }
